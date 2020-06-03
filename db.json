@@ -2,11 +2,5 @@
  "id": 0,
  "name": "Great",
  "surname": "Cornholio",
- "age": 27,
-  "address": {
-    "street": "Doped",
-    "buildingNo: 2,
-    "city": "Bienvenido",
-    "country: "Nicaragua"
-  }
+ "age": 27
 }
