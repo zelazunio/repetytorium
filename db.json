@@ -1,6 +1,3 @@
 {
-  "dupy": [
-    { "id": 1, "title": "dupa 1" },
-    { "id": 2, "title": "dupa 2" },
-    { "id": 3, "title": "dupa 3" }
-  ]
+  "dupy": 1
+}
